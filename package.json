@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/alebulka/Curso-Paulinho/issues"
   },
-  "homepage": "https://github.com/alebulka/Curso-Paulinho#readme",
-  "dependencies": {
-    "xhr2": "^0.2.1"
-  }
+  "homepage": "https://github.com/alebulka/Curso-Paulinho#readme"
 }
